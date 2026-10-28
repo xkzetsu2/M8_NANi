@@ -1,0 +1,12 @@
+com.google.android.agenda
+com.google.android.apps.docs
+com.google.android.apps.adm
+com.google.android.apps.assistant
+com.google.android.apps.books
+com.google.android.videos
+com.google.android.apps.maps
+com.google.android.apps.tachyon
+penseavanti.com.br.app2shop_multilaser
+br.com.multilaser.multifeedback
+com.google.android.apps.youtube.music
+com.google.android.apps.youtube.kids
