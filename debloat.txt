@@ -10,3 +10,6 @@ penseavanti.com.br.app2shop_multilaser
 br.com.multilaser.multifeedback
 com.google.android.apps.youtube.music
 com.google.android.apps.youtube.kids
+com.google.android.apps.safetyhub
+com.google.android.calendar
+
